@@ -1,6 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Dani Haro</h1>
 
-I'm Dani, a Software Engineer from Granada, Spain, currently working at [Appfluence](https://appfluence.com).
+I'm a Software Engineer from Granada, Spain, currently working at **[Appfluence](https://appfluence.com)**.
 
 ## 🔧 Technologies & Tools
 
@@ -16,6 +16,11 @@ I'm Dani, a Software Engineer from Granada, Spain, currently working at [Appflue
 ## 📈 GitHub Stats
 
 [![daniharo's github stats](https://github-readme-stats.vercel.app/api?username=daniharo&show_icons=true&theme=vue&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## ✉️ Connect with me
+<p align="left">
+<a href="https://linkedin.com/in/daniel-haro-contreras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/pedro-padilla-reyes" height="30" width="40" /></a>
+</p>
 
 
 <!--
