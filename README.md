@@ -13,9 +13,11 @@ I'm a Software Engineer from Granada, Spain, currently working at **[Appfluence]
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
+<!---
 ## 📈 GitHub Stats
 
 [![daniharo's github stats](https://github-readme-stats.vercel.app/api?username=daniharo&show_icons=true&theme=vue&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+--->
 
 ## ✉️ Connect with me
 <p align="left">
